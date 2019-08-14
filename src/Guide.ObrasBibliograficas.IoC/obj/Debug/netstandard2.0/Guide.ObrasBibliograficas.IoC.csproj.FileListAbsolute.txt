@@ -1,0 +1,14 @@
+C:\Users\usuario\Documents\Projetos\Guide\guide-obras-blibliograficas-api\Guide.ObrasBibliograficas\Guide.ObrasBibliograficas.IoC\obj\Debug\netstandard2.0\Guide.ObrasBibliograficas.IoC.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\Projetos\Guide\guide-obras-blibliograficas-api\Guide.ObrasBibliograficas\Guide.ObrasBibliograficas.IoC\obj\Debug\netstandard2.0\Guide.ObrasBibliograficas.IoC.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Projetos\Guide\guide-obras-blibliograficas-api\Guide.ObrasBibliograficas\Guide.ObrasBibliograficas.IoC\obj\Debug\netstandard2.0\Guide.ObrasBibliograficas.IoC.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\Projetos\Guide\guide-obras-blibliograficas-api\Guide.ObrasBibliograficas\Guide.ObrasBibliograficas.IoC\obj\Debug\netstandard2.0\Guide.ObrasBibliograficas.IoC.AssemblyInfo.cs
+C:\Users\usuario\Documents\Projetos\Guide\guide-obras-blibliograficas-api\Guide.ObrasBibliograficas\Guide.ObrasBibliograficas.IoC\bin\Debug\netstandard2.0\Guide.ObrasBibliograficas.IoC.deps.json
+C:\Users\usuario\Documents\Projetos\Guide\guide-obras-blibliograficas-api\Guide.ObrasBibliograficas\Guide.ObrasBibliograficas.IoC\bin\Debug\netstandard2.0\Guide.ObrasBibliograficas.IoC.dll
+C:\Users\usuario\Documents\Projetos\Guide\guide-obras-blibliograficas-api\Guide.ObrasBibliograficas\Guide.ObrasBibliograficas.IoC\bin\Debug\netstandard2.0\Guide.ObrasBibliograficas.IoC.pdb
+C:\Users\usuario\Documents\Projetos\Guide\guide-obras-blibliograficas-api\Guide.ObrasBibliograficas\Guide.ObrasBibliograficas.IoC\bin\Debug\netstandard2.0\Guide.ObrasBibliograficas.Domain.dll
+C:\Users\usuario\Documents\Projetos\Guide\guide-obras-blibliograficas-api\Guide.ObrasBibliograficas\Guide.ObrasBibliograficas.IoC\bin\Debug\netstandard2.0\Guide.ObrasBibliograficas.Infra.Data.dll
+C:\Users\usuario\Documents\Projetos\Guide\guide-obras-blibliograficas-api\Guide.ObrasBibliograficas\Guide.ObrasBibliograficas.IoC\bin\Debug\netstandard2.0\Guide.ObrasBibliograficas.Domain.pdb
+C:\Users\usuario\Documents\Projetos\Guide\guide-obras-blibliograficas-api\Guide.ObrasBibliograficas\Guide.ObrasBibliograficas.IoC\bin\Debug\netstandard2.0\Guide.ObrasBibliograficas.Infra.Data.pdb
+C:\Users\usuario\Documents\Projetos\Guide\guide-obras-blibliograficas-api\Guide.ObrasBibliograficas\Guide.ObrasBibliograficas.IoC\obj\Debug\netstandard2.0\Guide.ObrasBibliograficas.IoC.csproj.CopyComplete
+C:\Users\usuario\Documents\Projetos\Guide\guide-obras-blibliograficas-api\Guide.ObrasBibliograficas\Guide.ObrasBibliograficas.IoC\obj\Debug\netstandard2.0\Guide.ObrasBibliograficas.IoC.dll
+C:\Users\usuario\Documents\Projetos\Guide\guide-obras-blibliograficas-api\Guide.ObrasBibliograficas\Guide.ObrasBibliograficas.IoC\obj\Debug\netstandard2.0\Guide.ObrasBibliograficas.IoC.pdb

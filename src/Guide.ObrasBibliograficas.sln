@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guide.ObrasBibliograficas.Domain", "Guide.ObrasBibliograficas.Domain\Guide.ObrasBibliograficas.Domain.csproj", "{B829F437-E802-49BD-BD59-BCD382A59683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guide.ObrasBibliograficas.Infra.Data", "Guide.ObrasBibliograficas.Infra.Data\Guide.ObrasBibliograficas.Infra.Data.csproj", "{722D5FD0-D7F4-41FB-9690-C55A2F74304A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guide.ObrasBibliograficas.IoC", "Guide.ObrasBibliograficas.IoC\Guide.ObrasBibliograficas.IoC.csproj", "{0B89CFC5-5B49-41CE-AD3B-23C87B0FACD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guide.ObrasBibliograficas.API", "Guide.ObrasBibliograficas.API\Guide.ObrasBibliograficas.API.csproj", "{6D5C85C7-8DCF-4A9C-89B3-931A92474562}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guide.ObrasBibliograficas.Test", "Guide.ObrasBibliograficas.Test\Guide.ObrasBibliograficas.Test.csproj", "{B58EF7D8-F29E-4036-8202-CBF81F86E4FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B829F437-E802-49BD-BD59-BCD382A59683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B829F437-E802-49BD-BD59-BCD382A59683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B829F437-E802-49BD-BD59-BCD382A59683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B829F437-E802-49BD-BD59-BCD382A59683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{722D5FD0-D7F4-41FB-9690-C55A2F74304A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{722D5FD0-D7F4-41FB-9690-C55A2F74304A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{722D5FD0-D7F4-41FB-9690-C55A2F74304A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{722D5FD0-D7F4-41FB-9690-C55A2F74304A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B89CFC5-5B49-41CE-AD3B-23C87B0FACD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B89CFC5-5B49-41CE-AD3B-23C87B0FACD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B89CFC5-5B49-41CE-AD3B-23C87B0FACD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B89CFC5-5B49-41CE-AD3B-23C87B0FACD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D5C85C7-8DCF-4A9C-89B3-931A92474562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D5C85C7-8DCF-4A9C-89B3-931A92474562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D5C85C7-8DCF-4A9C-89B3-931A92474562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D5C85C7-8DCF-4A9C-89B3-931A92474562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B58EF7D8-F29E-4036-8202-CBF81F86E4FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B58EF7D8-F29E-4036-8202-CBF81F86E4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B58EF7D8-F29E-4036-8202-CBF81F86E4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B58EF7D8-F29E-4036-8202-CBF81F86E4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20685525-D252-49B9-9535-FC799AF48045}
+	EndGlobalSection
+EndGlobal

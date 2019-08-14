@@ -1,0 +1,9 @@
+C:\Users\usuario\Documents\Projetos\Guide\guide-obras-blibliograficas-api\Guide.ObrasBibliograficas\Guide.ObrasBibliograficas.Domain\bin\Debug\netstandard2.0\Guide.ObrasBibliograficas.Domain.deps.json
+C:\Users\usuario\Documents\Projetos\Guide\guide-obras-blibliograficas-api\Guide.ObrasBibliograficas\Guide.ObrasBibliograficas.Domain\bin\Debug\netstandard2.0\Guide.ObrasBibliograficas.Domain.dll
+C:\Users\usuario\Documents\Projetos\Guide\guide-obras-blibliograficas-api\Guide.ObrasBibliograficas\Guide.ObrasBibliograficas.Domain\bin\Debug\netstandard2.0\Guide.ObrasBibliograficas.Domain.pdb
+C:\Users\usuario\Documents\Projetos\Guide\guide-obras-blibliograficas-api\Guide.ObrasBibliograficas\Guide.ObrasBibliograficas.Domain\obj\Debug\netstandard2.0\Guide.ObrasBibliograficas.Domain.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\Projetos\Guide\guide-obras-blibliograficas-api\Guide.ObrasBibliograficas\Guide.ObrasBibliograficas.Domain\obj\Debug\netstandard2.0\Guide.ObrasBibliograficas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Projetos\Guide\guide-obras-blibliograficas-api\Guide.ObrasBibliograficas\Guide.ObrasBibliograficas.Domain\obj\Debug\netstandard2.0\Guide.ObrasBibliograficas.Domain.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\Projetos\Guide\guide-obras-blibliograficas-api\Guide.ObrasBibliograficas\Guide.ObrasBibliograficas.Domain\obj\Debug\netstandard2.0\Guide.ObrasBibliograficas.Domain.AssemblyInfo.cs
+C:\Users\usuario\Documents\Projetos\Guide\guide-obras-blibliograficas-api\Guide.ObrasBibliograficas\Guide.ObrasBibliograficas.Domain\obj\Debug\netstandard2.0\Guide.ObrasBibliograficas.Domain.dll
+C:\Users\usuario\Documents\Projetos\Guide\guide-obras-blibliograficas-api\Guide.ObrasBibliograficas\Guide.ObrasBibliograficas.Domain\obj\Debug\netstandard2.0\Guide.ObrasBibliograficas.Domain.pdb
